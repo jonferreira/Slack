@@ -1,3 +1,13 @@
+using Newtonsoft.Json;
+using System;
+using System.Collections.Specialized;
+using System.Net;
+using System.Text;
+using System.Web;
+using System.Collections.ObjectModel;
+using System.Collections.Generic;
+using System.Linq;
+
 namespace Utils
 {
     //A simple C# class to post messages to a Slack channel based on
